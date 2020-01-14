@@ -1,0 +1,2 @@
+https://www.codeproject.com/Articles/1183168/Solving-optimization-problems-with-Microsoft-Solve
+https://developers.google.com/optimization/introduction/using#csharp

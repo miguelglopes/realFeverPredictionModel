@@ -1,0 +1,12 @@
+D:\Dropbox\projetos\realFever\realFever\bin\Release\realFever.exe.config
+D:\Dropbox\projetos\realFever\realFever\obj\Release\realFever.csproj.ResolveComReference.cache
+D:\Dropbox\projetos\realFever\realFever\bin\Release\realFever.exe
+D:\Dropbox\projetos\realFever\realFever\bin\Release\realFever.pdb
+D:\Dropbox\projetos\realFever\realFever\bin\Release\Google.OrTools.dll
+D:\Dropbox\projetos\realFever\realFever\bin\Release\Microsoft.Solver.Foundation.dll
+D:\Dropbox\projetos\realFever\realFever\bin\Release\Newtonsoft.Json.dll
+D:\Dropbox\projetos\realFever\realFever\bin\Release\Google.Protobuf.dll
+D:\Dropbox\projetos\realFever\realFever\bin\Release\Microsoft.Solver.Foundation.xml
+D:\Dropbox\projetos\realFever\realFever\bin\Release\Newtonsoft.Json.xml
+D:\Dropbox\projetos\realFever\realFever\obj\Release\realFever.exe
+D:\Dropbox\projetos\realFever\realFever\obj\Release\realFever.pdb
